@@ -1,0 +1,52 @@
+[
+    {
+        "ID": "12345",
+        "Cover": "https://i.ibb.co/KNL1G24/9563021.jpg",
+        "Title": "The Enchanted Forest",
+        "Author": "Emily Smith",
+        "Author_img": "https://i.ibb.co/VMwX3Gp/handsome-man-with-glasses.jpg",
+        "Posted_Date": "2023-09-10",
+        "Reading_Time": 4,
+        "Hashtag": "#FantasyAdventure"
+    },
+    {
+        "ID": "67890",
+        "Cover": "https://i.ibb.co/LtB1zQz/7800072.jpg",
+        "Title": "Secrets of the Universe",
+        "Author": "James Johnson",
+        "Author_img": "https://i.ibb.co/wMFdWCd/close-up-portrait-handsome-young-hipster-man-hazel-eyes-wearing-trendy-plaid-shirt-posing-near-city.jpg",
+        "Posted_Date": "2023-09-08",
+        "Reading_Time": 6,
+        "Hashtag": "#ScienceFiction"
+    },
+    {
+        "ID": "54321",
+        "Cover": "https://i.ibb.co/h1tQK1v/6458516.jpg",
+        "Title": "Culinary Delights",
+        "Author": "Maria Rodriguez",
+        "Author_img": "https://i.ibb.co/LhWvK6D/close-up-portrait-confident-attractive-businesswoman.jpg",
+        "Posted_Date": "2023-09-12",
+        "Reading_Time": 2,
+        "Hashtag": "#Cookbook"
+    },
+    {
+        "ID": "98765",
+        "Cover": "https://i.ibb.co/LtB1zQz/7800072.jpg",
+        "Title": "The Mysterious Case",
+        "Author": "David Anderson",
+        "Author_img": "https://i.ibb.co/H2vN2jZ/41562.jpg",
+        "Posted_Date": "2023-09-07",
+        "Reading_Time": 4.5,
+        "Hashtag": "#MysteryNovel"
+    },
+    {
+        "ID": "13579",
+        "Cover": "https://i.ibb.co/ZJJ81BL/coffee-latte-with-spectacles-book-wooden-background.jpg",
+        "Title": "Time Traveler's Journal",
+        "Author": "Sarah Turner",
+        "Author_img": "https://i.ibb.co/H2vN2jZ/41562.jpg",
+        "Posted_Date": "2023-09-11",
+        "Reading_Time": 1.5,
+        "Hashtag": "#TimeTravel"
+    }
+]
