@@ -1,4 +1,4 @@
-import { data } from "autoprefixer";
+import Blog from "../Blog/Blog";
 import { useEffect } from "react";
 import { useState } from "react";
 
@@ -12,6 +12,9 @@ const Blogs = () => {
     return (
         <div className="w-2/3">
             <h1 className="text-4xl">Blogs: {blogs.length}</h1>
+            {
+               blogs.map(blog => <Blog key={blog.ID} blog ={blog}></Blog>)
+            }
         </div>
     );
 };
